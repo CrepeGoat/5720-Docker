@@ -12,7 +12,7 @@ export ARCH ?= amd64
 
 #<UPDATE PORT HERE>
 # ***************
-export PORT ?= 88
+export PORT ?= 8001
 
 
 
